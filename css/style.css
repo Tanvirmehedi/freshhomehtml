@@ -313,6 +313,9 @@ M E D I A  Q U E R I E S
   body {
     overflow-x: hidden;
   }
+  .phone span {
+    font-size: 14px !important;
+  }
 }
 
 /* // Large devices (desktops, less than 1200px) */
